@@ -1,3 +1,1 @@
-# Plotly
-
-Belly Button Diversity
+# Belly Button Diversity
