@@ -1,5 +1,7 @@
 # Belly Button Diversity
 
+(All final files for the challenge are inside the Belly Button Diversity Folder)
+
 In this Challenge, we used Plotly, D3.js, and Javascript to turn data from bacteria cultures of belly buttons, and created a pull-down menu that references the Test Subjects ID #'s to produce a bar chart, a bubble chart, and a gauge chart that shows each subjects information.
 
 ## Deliverable 1: Create a Horizontal Bar Chart (35 points)
